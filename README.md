@@ -1,9 +1,9 @@
 
-=================
-run_analysis.R
-author: BW
-Date: 25-Dec-2016
-=================
+#=================
+#run_analysis.R
+#author: BW
+#Date: 25-Dec-2016
+#=================
 
 
 The run_analysis.R script does the following things:
@@ -20,10 +20,10 @@ The output of this script are:
 
 The explanation of underlying raw data and experiment design can be found below.
 
-==================================================================
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
-==================================================================
+#==================================================================
+#Human Activity Recognition Using Smartphones Dataset
+#Version 1.0
+#==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Universit‡ degli Studi di Genova.
